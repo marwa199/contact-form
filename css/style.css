@@ -1,0 +1,22 @@
+*{
+    font-family: raleway,'Times New Roman', Times, serif;
+}
+
+.container{
+    background-color:#eee;
+    padding: 50px;
+}
+
+.container h2{
+    font-weight: 600;
+}
+.astricx{
+    color: red;
+    font-size: 25px;
+    display: inline-block;
+    
+}
+
+.alert{
+    margin-bottom: 10px !important;
+}
